@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataRádio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/74/74101.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>D.R BREGAFUNK</h1>
+    <audio id="radio" controls autoplay>
+        <source src="https://stream-173.zeno.fm/4dd9snu8mzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZGQ5c251OG16enV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImotUHJ6VWZMUUl1cjJOU01VTjRZclEiLCJpYXQiOjE3MjY0NzYwODcsImV4cCI6MTcyNjQ3NjE0N30.GdZNH0Dm2_j23Xkaee38yTdyoDx2cxc1Gx70r-iWeeY" type="audio/mpeg">
+    </audio>
+
+    <script>
+        window.onload = function() {
+            var radio = document.getElementById('radio');
+            radio.volume = 0.01
+            radio.play();
+        };
+    </script>
+</body>
+</html>
+

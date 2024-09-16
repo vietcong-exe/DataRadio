@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataRádio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/74/74101.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>D.R 1</h1>
+    <audio id="radio" controls autoplay>
+        <source src="https://azura.ironhotel.org/listen/r/radio.mp3" type="audio/mpeg">
+    </audio>
+
+    <script>
+        window.onload = function() {
+            var radio = document.getElementById('radio');
+            radio.volume = 0.01
+            radio.play();
+        };
+    </script>
+</body>
+</html>
+

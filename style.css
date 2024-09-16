@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(39, 39, 39);
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0
+  }
+  
+  h1 {
+    font-size: 4em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    color:aqua;
+    font-family: "Concert One", sans-serif;
+    font-style: normal;
+  }
+  
+  audio {
+    border: none;
+    box-shadow: none;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: #777;
+  }
+  
+  audio::-webkit-media-controls-panel {
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  audio::-webkit-media-controls-play-button {
+    color: white;
+  }
+  
+  audio::-webkit-media-controls-volume-slider {
+    background-color: #ddd;
+    border-radius: 5px;
+  }
+  
+  audio::-webkit-media-controls-volume-slider-thumb {
+    background-color: #777;
+    border-radius: 50%;
+  }
