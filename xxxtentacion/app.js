@@ -31,199 +31,199 @@ function createTrackItem(index,name,duration){
 var listAudio = [
   {
     name:"Bass Santana, XXXTENTACION, Cooliecut, Kin$oul - Curse",
-    file:"xxxtentaction/Bass Santana, XXXTENTACION, Cooliecut, Kin$oul - Curse.mp3",
+    file:"xxxtentacion/Bass Santana, XXXTENTACION, Cooliecut, Kin$oul - Curse.mp3",
   },
   {
     name:"Kanye West, XXXTENTACION - True Love",
-    file:"xxxtentaction/Kanye West, XXXTENTACION - True Love.mp3",
+    file:"xxxtentacion/Kanye West, XXXTENTACION - True Love.mp3",
   },
   {
     name:"Kodak Black, XXXTENTACION - Roll in Peace (feat. XXXTENTACION)",
-    file:"xxxtentaction/Kodak Black, XXXTENTACION - Roll in Peace (feat. XXXTENTACION).mp3",
+    file:"xxxtentacion/Kodak Black, XXXTENTACION - Roll in Peace (feat. XXXTENTACION).mp3",
   },
   {
     name:"Lil Peep, XXXTENTACION - Falling Down - Bonus Track",
-    file:"xxxtentaction/Lil Peep, XXXTENTACION - Falling Down - Bonus Track.mp3",
+    file:"xxxtentacion/Lil Peep, XXXTENTACION - Falling Down - Bonus Track.mp3",
   },
   {
     name:"Lil Wayne, Ty Dolla $ign, XXXTENTACION - Scared of the Dark (feat. XXXTENTACION)",
-    file:"xxxtentaction/Lil Wayne, Ty Dolla $ign, XXXTENTACION - Scared of the Dark (feat. XXXTENTACION).mp3",
+    file:"xxxtentacion/Lil Wayne, Ty Dolla $ign, XXXTENTACION - Scared of the Dark (feat. XXXTENTACION).mp3",
   },
   {
     name:"Noah Cyrus, XXXTENTACION - Again (feat. XXXTENTACION)",
-    file:"xxxtentaction/Noah Cyrus, XXXTENTACION - Again (feat. XXXTENTACION).mp3",
+    file:"xxxtentacion/Noah Cyrus, XXXTENTACION - Again (feat. XXXTENTACION).mp3",
   },
   {
     name:"Ski Mask The Slump God, XXXTENTACION - Take A Step Back",
-    file:"xxxtentaction/Ski Mask The Slump God, XXXTENTACION - Take A Step Back.mp3",
+    file:"xxxtentacion/Ski Mask The Slump God, XXXTENTACION - Take A Step Back.mp3",
   },
   {
     name:"XXXTENTACION - ATTENTION!",
-    file:"xxxtentaction/XXXTENTACION - ATTENTION!.mp3",
+    file:"xxxtentacion/XXXTENTACION - ATTENTION!.mp3",
   },
   {
     name:"XXXTENTACION - BAD!",
-    file:"xxxtentaction/XXXTENTACION - BAD!.mp3",
+    file:"xxxtentacion/XXXTENTACION - BAD!.mp3",
   },
   {
     name:"XXXTENTACION - before I close my eyes",
-    file:"xxxtentaction/XXXTENTACION - before I close my eyes.mp3",
+    file:"xxxtentacion/XXXTENTACION - before I close my eyes.mp3",
   },
   {
     name:"XXXTENTACION - Carry On",
-    file:"xxxtentaction/XXXTENTACION - Carry On.mp3",
+    file:"xxxtentacion/XXXTENTACION - Carry On.mp3",
   },
   {
     name:"XXXTENTACION - changes",
-    file:"xxxtentaction/XXXTENTACION - changes.mp3",
+    file:"xxxtentacion/XXXTENTACION - changes.mp3",
   },
   {
     name:"XXXTENTACION - difference (interlude)",
-    file:"xxxtentaction/XXXTENTACION - difference (interlude).mp3",
+    file:"xxxtentacion/XXXTENTACION - difference (interlude).mp3",
   },
   {
     name:"XXXTENTACION - Everybody Dies In Their Nightmares",
-    file:"xxxtentaction/XXXTENTACION - Everybody Dies In Their Nightmares.mp3",
+    file:"xxxtentacion/XXXTENTACION - Everybody Dies In Their Nightmares.mp3",
   },
   {
     name:"XXXTENTACION - Ex Bitch",
-    file:"xxxtentaction/XXXTENTACION - Ex Bitch.mp3",
+    file:"xxxtentacion/XXXTENTACION - Ex Bitch.mp3",
   },
   {
     name:"XXXTENTACION - Guardian angel",
-    file:"xxxtentaction/XXXTENTACION - Guardian angel.mp3",
+    file:"xxxtentacion/XXXTENTACION - Guardian angel.mp3",
   },
   {
     name:"XXXTENTACION - hate will never win",
-    file:"xxxtentaction/XXXTENTACION - hate will never win.mp3",
+    file:"xxxtentacion/XXXTENTACION - hate will never win.mp3",
   },
   {
     name:"XXXTENTACION - HEARTEATER",
-    file:"xxxtentaction/XXXTENTACION - HEARTEATER.mp3",
+    file:"xxxtentacion/XXXTENTACION - HEARTEATER.mp3",
   },
   {
     name:"XXXTENTACION - Hope",
-    file:"xxxtentaction/XXXTENTACION - Hope.mp3",
+    file:"xxxtentacion/XXXTENTACION - Hope.mp3",
   },
   {
     name:"XXXTENTACION - I don't let go",
-    file:"xxxtentaction/XXXTENTACION - I don't let go.mp3",
+    file:"xxxtentacion/XXXTENTACION - I don't let go.mp3",
   },
   {
     name:"XXXTENTACION - I Don't Wanna Do This Anymore",
-    file:"xxxtentaction/XXXTENTACION - I Don't Wanna Do This Anymore.mp3",
+    file:"xxxtentacion/XXXTENTACION - I Don't Wanna Do This Anymore.mp3",
   },
   {
     name:"XXXTENTACION - I spoke to the devil in miami, he said everything would be fine",
-    file:"xxxtentaction/XXXTENTACION - I spoke to the devil in miami, he said everything would be fine.mp3",
+    file:"xxxtentacion/XXXTENTACION - I spoke to the devil in miami, he said everything would be fine.mp3",
   },
   {
     name:"XXXTENTACION - Jocelyn Flores",
-    file:"xxxtentaction/XXXTENTACION - Jocelyn Flores.mp3",
+    file:"xxxtentacion/XXXTENTACION - Jocelyn Flores.mp3",
   },
   {
     name:"XXXTENTACION - King Of The Dead",
-    file:"xxxtentaction/XXXTENTACION - King Of The Dead.mp3",
+    file:"xxxtentacion/XXXTENTACION - King Of The Dead.mp3",
   },
   {
     name:"XXXTENTACION - King",
-    file:"xxxtentaction/XXXTENTACION - King.mp3",
+    file:"xxxtentacion/XXXTENTACION - King.mp3",
   },
   {
     name:"XXXTENTACION - let's pretend we're numb",
-    file:"xxxtentaction/XXXTENTACION - let's pretend we're numb.mp3",
+    file:"xxxtentacion/XXXTENTACION - let's pretend we're numb.mp3",
   },
   {
     name:"XXXTENTACION - Look At Me!",
-    file:"xxxtentaction/XXXTENTACION - Look At Me!.mp3",
+    file:"xxxtentacion/XXXTENTACION - Look At Me!.mp3",
   },
   {
     name:"XXXTENTACION - Looking for a Star",
-    file:"xxxtentaction/XXXTENTACION - Looking for a Star.mp3",
+    file:"xxxtentacion/XXXTENTACION - Looking for a Star.mp3",
   },
   {
     name:"XXXTENTACION - Moonlight",
-    file:"xxxtentaction/XXXTENTACION - Moonlight.mp3",
+    file:"xxxtentacion/XXXTENTACION - Moonlight.mp3",
   },
   {
     name:"XXXTENTACION - numb the pain",
-    file:"xxxtentaction/XXXTENTACION - numb the pain.mp3",
+    file:"xxxtentacion/XXXTENTACION - numb the pain.mp3",
   },
   {
     name:"XXXTENTACION - Revenge",
-    file:"xxxtentaction/XXXTENTACION - Revenge.mp3",
+    file:"xxxtentacion/XXXTENTACION - Revenge.mp3",
   },
   {
     name:"XXXTENTACION - Riot",
-    file:"xxxtentaction/XXXTENTACION - Riot.mp3",
+    file:"xxxtentacion/XXXTENTACION - Riot.mp3",
   },
   {
     name:"XXXTENTACION - SAD!",
-    file:"xxxtentaction/XXXTENTACION - SAD!.mp3",
+    file:"xxxtentacion/XXXTENTACION - SAD!.mp3",
   },
   {
     name:"XXXTENTACION - Sauce!",
-    file:"xxxtentaction/XXXTENTACION - Sauce!.mp3",
+    file:"xxxtentacion/XXXTENTACION - Sauce!.mp3",
   },
   {
     name:"XXXTENTACION - Save Me",
-    file:"xxxtentaction/XXXTENTACION - Save Me.mp3",
+    file:"xxxtentacion/XXXTENTACION - Save Me.mp3",
   },
   {
     name:"XXXTENTACION - Teeth (Interlude)",
-    file:"xxxtentaction/XXXTENTACION - Teeth (Interlude).mp3",
+    file:"xxxtentacion/XXXTENTACION - Teeth (Interlude).mp3",
   },
   {
     name:"XXXTENTACION - the remedy for a broken heart (why am I so in love)",
-    file:"xxxtentaction/XXXTENTACION - the remedy for a broken heart (why am I so in love).mp3",
+    file:"xxxtentacion/XXXTENTACION - the remedy for a broken heart (why am I so in love).mp3",
   },
   {
     name:"XXXTENTACION - Triumph",
-    file:"xxxtentaction/XXXTENTACION - Triumph.mp3",
+    file:"xxxtentacion/XXXTENTACION - Triumph.mp3",
   },
   {
     name:"XXXTENTACION - VERY RARE FOREVER FREESTYLE",
-    file:"xxxtentaction/XXXTENTACION - VERY RARE FOREVER FREESTYLE.mp3",
+    file:"xxxtentacion/XXXTENTACION - VERY RARE FOREVER FREESTYLE.mp3",
   },
   {
     name:"XXXTENTACION - vice city",
-    file:"xxxtentaction/XXXTENTACION - vice city.mp3",
+    file:"xxxtentacion/XXXTENTACION - vice city.mp3",
   },
   {
     name:"XXXTENTACION - what are you so afraid of",
-    file:"xxxtentaction/XXXTENTACION - what are you so afraid of.mp3",
+    file:"xxxtentacion/XXXTENTACION - what are you so afraid of.mp3",
   },
   {
     name:"XXXTENTACION - whoa (mind in awe)",
-    file:"xxxtentaction/XXXTENTACION - whoa (mind in awe).mp3",
+    file:"xxxtentacion/XXXTENTACION - whoa (mind in awe).mp3",
   },
   {
     name:"XXXTENTACION - WingRiddenAngel",
-    file:"xxxtentaction/XXXTENTACION - WingRiddenAngel.mp3",
+    file:"xxxtentacion/XXXTENTACION - WingRiddenAngel.mp3",
   },
   {
     name:"XXXTENTACION - YuNg BrAtZ",
-    file:"xxxtentaction/XXXTENTACION - YuNg BrAtZ.mp3",
+    file:"xxxtentacion/XXXTENTACION - YuNg BrAtZ.mp3",
   },
   {
     name:"XXXTENTACION, Lil Pump, Swae Lee, Maluma - Arms Around You (feat. Maluma & Swae Lee)",
-    file:"xxxtentaction/XXXTENTACION, Lil Pump, Swae Lee, Maluma - Arms Around You (feat. Maluma & Swae Lee).mp3",
+    file:"xxxtentacion/XXXTENTACION, Lil Pump, Swae Lee, Maluma - Arms Around You (feat. Maluma & Swae Lee).mp3",
   },
   {
     name:"XXXTENTACION, PnB Rock, Trippie Redd - bad vibes forever (feat. PnB Rock & Trippie Redd)",
-    file:"xxxtentaction/XXXTENTACION, PnB Rock, Trippie Redd - bad vibes forever (feat. PnB Rock & Trippie Redd).mp3",
+    file:"xxxtentacion/XXXTENTACION, PnB Rock, Trippie Redd - bad vibes forever (feat. PnB Rock & Trippie Redd).mp3",
   },
   {
     name:"XXXTENTACION, Ski Mask The Slump God - Off the Wall!",
-    file:"xxxtentaction/XXXTENTACION, Ski Mask The Slump God - Off the Wall!.mp3",
+    file:"xxxtentacion/XXXTENTACION, Ski Mask The Slump God - Off the Wall!.mp3",
   },
   {
     name:"XXXTENTACION, Ski Mask The Slump God - RIP Roach",
-    file:"xxxtentaction/XXXTENTACION, Ski Mask The Slump God - RIP Roach.mp3",
+    file:"xxxtentacion/XXXTENTACION, Ski Mask The Slump God - RIP Roach.mp3",
   },
   {
     name:"XXXTENTACION, Trippie Redd - Fuck Love",
-    file:"xxxtentaction/XXXTENTACION, Trippie Redd - Fuck Love.mp3",
+    file:"xxxtentacion/XXXTENTACION, Trippie Redd - Fuck Love.mp3",
   },
   
 ]
